@@ -1,0 +1,18 @@
+{
+    "name": "gbpbrors406-15/vbis2024",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "NiksaHalas",
+            "email": "niksa.halas.22@singimail.rs"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-mysqli": "*"
+    }
+}
